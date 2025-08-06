@@ -40,7 +40,7 @@ The application is organized into three layers:
   },
   ...
 ]
-
+``` 
 - currentSalary: the employee's current salary
 - salaryHistory: a list of previous salary amounts and update dates (the current salary is not duplicated in the history)
 
