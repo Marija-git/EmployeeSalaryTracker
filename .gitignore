@@ -1,0 +1,39 @@
+# Build output folders
+**/bin/
+**/obj/
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# Visual Studio user-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio workspace
+.vs/
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# NuGet packages
+*.nupkg
+**/packages/*
+
+# EF Core Migrations snapshot
+**/Migrations/*Snapshot.cs
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Secret configuration
+appsettings.Development.json
